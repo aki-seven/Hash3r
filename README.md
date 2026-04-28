@@ -110,7 +110,7 @@ Hash3r/
 - **Akhilesh Singh Choudhary** — Developer  
   GitHub: https://github.com/aki-seven
 
-- **Ankush Bhadwar** — Co-Developer  
+- **Ankush Bhadwar** — Developer  
   GitHub: https://github.com/anku0669
 
 ---
