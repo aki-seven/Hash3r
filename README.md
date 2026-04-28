@@ -8,6 +8,6 @@ python -m hasher.cli --help
 - **Akhilesh Singh Choudhary** — Developer  
   GitHub: https://github.com/aki-seven
 
-- **Ankush Bhadwar** — Co-developer  
+- **Ankush Bhadwar** — Developer  
   GitHub: https://github.com/anku0669
 
