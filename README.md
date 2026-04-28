@@ -1,5 +1,6 @@
 The project was created to learn about the cryptographic algorithms used in cybersecurity and their relavence to each other in terms of speed and strength.
 
+
 Usage: 
 python -m hasher.cli --help
 
