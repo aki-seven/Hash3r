@@ -1,8 +1,13 @@
-The project was created to learn about the cryptographic algorithms used in cybersecurity and their relevance to each other in terms of speed and strength.
-
-
-Usage: 
-python -m hasher.cli --help
+## Hash3r
+- The project was created to learn about the cryptographic algorithms used in cybersecurity and their relevance to each other in terms of speed and strength.
+- 
+## Installation:
+'''source ~/venv/bin/activate
+   pip install .
+ 
+'''
+## Usage: 
+'''python -m hasher.cli --help
 
 ## Contributors
 
